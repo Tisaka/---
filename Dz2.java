@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Dz2 {
     public static void main(String[] args) {
-        int [] masiv = {11, 3, 14, 16, 7};
+        int [] masiv = {31, 5, 14, 45, 69};
  
         boolean isSorted = false;
         int buf;
